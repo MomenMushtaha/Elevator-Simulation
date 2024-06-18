@@ -15,24 +15,6 @@ The 'Elevator-Simulation' project is a simulation model of an elevator system de
 - **GUI Framework:** JavaFX
 - **Simulation Framework:** Custom-built using Java for simulation logic
 
-## Installation and Setup
-1. **Clone the repository:**
-   \`\`\`sh
-   git clone https://github.com/MomenMushtaha/Elevator-Simulation.git
-   \`\`\`
-2. **Navigate to the project directory:**
-   \`\`\`sh
-   cd Elevator-Simulation
-   \`\`\`
-3. **Compile the Java files:**
-   \`\`\`sh
-   javac -d bin src/*.java
-   \`\`\`
-4. **Run the simulation:**
-   \`\`\`sh
-   java -cp bin Main
-   \`\`\`
-
 ## Usage
 - **Simulation Configuration:** Edit the configuration file to set parameters such as the number of floors, number of elevators, and passenger arrival patterns.
 - **Running the Simulation:** Use the GUI to start and stop the simulation, view elevator movements, and analyze performance metrics.
