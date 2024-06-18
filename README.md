@@ -36,9 +36,3 @@ The 'Elevator-Simulation' project is a simulation model of an elevator system de
 ## Usage
 - **Simulation Configuration:** Edit the configuration file to set parameters such as the number of floors, number of elevators, and passenger arrival patterns.
 - **Running the Simulation:** Use the GUI to start and stop the simulation, view elevator movements, and analyze performance metrics.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's style guidelines and includes appropriate documentation.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/MomenMushtaha/Elevator-Simulation/blob/main/LICENSE) file for more details.
